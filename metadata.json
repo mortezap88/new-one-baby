@@ -1,0 +1,6 @@
+{
+  "name": "FlashRecall",
+  "description": "Spaced repetition flashcards with spelling, pronunciation, image recognition, and dual-provider GPT 6 Luna (Houshyar24) for TTT and Gemini 3.5 Flash-Lite (1xAI) for STT with minimal/none thinking budget.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
